@@ -1,9 +1,9 @@
 export const DEPARTMENTS =[
-    "cs",
-    "math",
-    "phy",
-    "chem",
-    "bio",
+    "Computer Science",
+    "Mathematics",
+    "Physics",
+    "Chemistry",
+    "Biology",
 ]
 export  const DEPARTMENT_OPTIONS = DEPARTMENTS.map((dept)=>({
     value:dept,
